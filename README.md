@@ -38,7 +38,7 @@ This dashboard focuses on:
 
 ## Dashboard Preview
 
-Screenshots of the dashboards are available in the [**Screenshots**](https://github.com/yuktichauhan123/Blinkit_PowerBI_Analytics_Dashboard/tree/main/Blinkit_SS) folder.
+Screenshots of the dashboards are available in the [**Blinkit_SS**](https://github.com/yuktichauhan123/Blinkit_PowerBI_Analytics_Dashboard/tree/main/Blinkit_SS) folder.
 
 > ⚠️ GitHub cannot preview `.pbix` files.
 > Please download the Power BI file to explore the interactive dashboard.
