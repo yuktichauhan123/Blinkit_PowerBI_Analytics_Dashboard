@@ -39,6 +39,7 @@ Dashboard Design
 ## Dashboard Preview
 
 Screenshots of the dashboards are available in the [**Screenshots**](https://github.com/yuktichauhan123/Blinkit_PowerBI_Analytics_Dashboard/tree/main/Blinkit_SS) folder.
+
 ⚠️ GitHub cannot preview `.pbix` files.
 Please download the Power BI file to explore the interactive dashboard.
 
@@ -55,5 +56,3 @@ Browse screenshots for a quick overview
 
 Suggestions and feedback are always welcome.
 I’m continuously learning and building.
-
-Just tell me 😊
